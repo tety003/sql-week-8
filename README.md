@@ -13,7 +13,4 @@ The system supports:
 **How to Run / Setup the Project**
 
 1. Install MySQL or use a MySQL GUI tool
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/clinic-booking-system.git
-   cd clinic-booking-system
+2. Clone this repository
